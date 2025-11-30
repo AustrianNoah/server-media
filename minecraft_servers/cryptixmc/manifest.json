@@ -1,0 +1,27 @@
+{
+  "server_name": "cryptixmc",
+  "nice_name: "CryptixMC",
+  "direct_ip": "cryptixmc.net",
+  "supported_languages": [
+    "en",
+    "de"
+  ],
+  "social": {
+    "discord": "https://discord.gg/cryptixmc"
+  },
+  "gamemodes": {
+    "gens": {
+      "name": "GENS",
+      "color": "#72FF6B",
+      "command": "/labyjoin GENS"
+    }
+  },
+  "brand": {
+    "primary": ""
+  },
+  "location": {
+    "city": "Dresden",
+    "country": "German",
+    "country_code": "DE"
+  }
+}
